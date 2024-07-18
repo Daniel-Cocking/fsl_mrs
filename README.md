@@ -7,6 +7,7 @@ FSL-MRS is a collection of python modules and wrapper scripts for pre-processing
 
 ---
 ## Installation 
+There are two ways of installing fsl_mrs
 
 ### Conda package
 The primary installation method is via _conda_. First you should install conda and creating  a suitable [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). For example, in the base conda environment execute: 
