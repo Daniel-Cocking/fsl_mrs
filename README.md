@@ -3,7 +3,7 @@
 
 ## Description
 
-FSL-MRS is a collection of python modules and wrapper scripts for pre-processing and model fitting of Magnetic Resonance Spectroscopy (MRS) data.
+FSL-MRS is a collection of python modules and wrapper scripts for pre-processing and model fitting of Magnetic Resonance Spectroscopy (MRS) data. This is Daniel Cockings version.
 
 ---
 ## Installation 
